@@ -4,6 +4,7 @@ using MEF2Attr = System.Composition;
 using MEFAttr = System.ComponentModel.Composition;
 using MugenAttr = MugenInjection.Attributes;
 using NinjectAttr = Ninject;
+using ZenjectAttr = Zenject;
 using StashBoxAttr = Stashbox.Attributes;
 using StructureAttr = StructureMap.Attributes;
 using UnityAttr = Unity.Attributes;
@@ -28,6 +29,7 @@ namespace IocPerformance.Classes.Properties
         [LinFuAttr.Inject]
         [MugenAttr.Inject]
         [NinjectAttr.Inject]
+        [ZenjectAttr.Inject]
         [UnityAttr.Dependency]
         [StructureAttr.SetterProperty]
         [Stiletto.Inject]

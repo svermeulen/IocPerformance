@@ -49,6 +49,14 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
+    <Reference Include="Zenject, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Zenject.dll</HintPath>
+    </Reference>
+    <Reference Include="Zenject-usage, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Zenject-usage.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Adapters\AbiocContainerAdapter.cs" />
@@ -100,6 +108,7 @@
     <Compile Include="Benchmarks\Advanced\05_Property_Benchmark.cs" />
     <Compile Include="Benchmarks\Advanced\06_Generics_Benchmark.cs" />
     <Compile Include="Benchmarks\Advanced\07_IEnumerable_Benchmark.cs" />
+    <Compile Include="Adapters\ZenjectContainerAdapter.cs" />
     <Compile Include="Benchmarks\Advanced\08_Conditional_Benchmark.cs" />
     <Compile Include="Benchmarks\Advanced\09_ChildContainer_Benchmark.cs" />
     <Compile Include="Benchmarks\Advanced\10_AspNetCore_Benchmark.cs" />
