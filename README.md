@@ -138,6 +138,6 @@ Results
 |**[Zenject 7.3.0](https://github.com/svermeulen/Zenject)**|137<br/>|146<br/>|
 ### Charts
 <img src="docs/img/Overview_Basic_Slow.png" width="800" height="600" />
-<img src="docs/img/Overview_Advanced_Fast.png" width="800" height="600" />
+<img src="docs/img/Overview_Prepare_Fast.png" width="800" height="600" />
 <img src="docs/img/13-Prepare And Register And Simple Resolve.png" width="800" height="600" />
 <img src="docs/img/12-Prepare And Register.png" width="800" height="600" />
