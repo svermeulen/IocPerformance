@@ -1,6 +1,8 @@
 Ioc Performance
 ===============
 
+This 
+
 Source code of my performance comparison of the most popular .NET IoC containers:  
 [www.palmmedia.de/Blog/2011/8/30/ioc-container-benchmark-performance-comparison](http://www.palmmedia.de/Blog/2011/8/30/ioc-container-benchmark-performance-comparison)
 
@@ -135,10 +137,7 @@ Results
 |**[Windsor 4.1.0](http://castleproject.org)**|2847<br/>|2882<br/>|
 |**[Zenject 7.3.0](https://github.com/svermeulen/Zenject)**|137<br/>|146<br/>|
 ### Charts
-![Basic features](http://www.palmmedia.de/content/blogimages/5225c515-2f25-498f-84fe-6c6e931d2042.png)
-![Advanced features](http://www.palmmedia.de/content/blogimages/e0401485-20c6-462e-b5d4-c9cf854e6bee.png)
-![Prepare](http://www.palmmedia.de/content/blogimages/67b056a5-9da8-40b4-9ae6-0c838cdac180.png)
-### Machine
-The benchmark was executed on the following machine:  
-**CPU**: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz  
-**Memory**: 31.94GB
+<img src="docs/img/Overview_Basic_Slow.png" width="800" height="600" />
+<img src="docs/img/Overview_Advanced_Fast.png" width="800" height="600" />
+<img src="docs/img/13-Prepare And Register And Simple Resolve.png" width="800" height="600" />
+<img src="docs/img/12-Prepare And Register.png" width="800" height="600" />
