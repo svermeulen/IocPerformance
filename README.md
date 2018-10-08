@@ -53,7 +53,7 @@ Results
 |**[StructureMap 4.7.0](http://structuremap.net/structuremap)**|994<br/>557|1159<br/>709|3203<br/>1795|7992<br/>4478|
 |**[Unity 5.8.6](https://github.com/unitycontainer/unity)**|270<br/>162|376<br/>249|1108<br/>634|3327<br/>1835|
 |**[Windsor 4.1.0](http://castleproject.org)**|426<br/>286|1776<br/>973|5787<br/>3108|16675<br/>8985|
-|**[Zenject 6.4.0](https://github.com/svermeulen/Zenject)**|437<br/>549|1286<br/>932|3610<br/>2987|9963<br/>6737|
+|**[Zenject 7.3.0](https://github.com/svermeulen/Zenject)**|437<br/>549|1286<br/>932|3610<br/>2987|9963<br/>6737|
 ### Advanced Features
 |**Container**|**Property**|**Generics**|**IEnumerable**|**Conditional**|**Child Container**|**Asp Net Core**|**Interception With Proxy**|
 |:------------|-----------:|-----------:|--------------:|--------------:|------------------:|---------------:|--------------------------:|
@@ -93,7 +93,7 @@ Results
 |**[StructureMap 4.7.0](http://structuremap.net/structuremap)**|8417<br/>4696|2223<br/>1315|8352<br/>4592|<br/>|3196473*<br/>1749431*|44306<br/>25318|7541<br/>4091|
 |**[Unity 5.8.6](https://github.com/unitycontainer/unity)**|3332<br/>1881|1144<br/>661|4049<br/>2263|834<br/>467|5863<br/>9406|14369<br/>13913|<br/>|
 |**[Windsor 4.1.0](http://castleproject.org)**|32879<br/>17795|14091<br/>7517|14856<br/>8174|<br/>|205541*<br/>108275*|<br/>|13683<br/>7150|
-|**[Zenject 6.4.0](https://github.com/svermeulen/Zenject)**|13240<br/>8144|6796<br/>4149|13243<br/>8863|2923<br/>2307|21211<br/>11956|<br/>|<br/>|
+|**[Zenject 7.3.0](https://github.com/svermeulen/Zenject)**|13240<br/>8144|6796<br/>4149|13243<br/>8863|2923<br/>2307|21211<br/>11956|<br/>|<br/>|
 ### Prepare
 |**Container**|**Prepare And Register**|**Prepare And Register And Simple Resolve**|
 |:------------|-----------------------:|------------------------------------------:|
@@ -133,7 +133,7 @@ Results
 |**[StructureMap 4.7.0](http://structuremap.net/structuremap)**|1374<br/>|7347<br/>|
 |**[Unity 5.8.6](https://github.com/unitycontainer/unity)**|64<br/>|66<br/>|
 |**[Windsor 4.1.0](http://castleproject.org)**|2847<br/>|2882<br/>|
-|**[Zenject 6.4.0](https://github.com/svermeulen/Zenject)**|137<br/>|146<br/>|
+|**[Zenject 7.3.0](https://github.com/svermeulen/Zenject)**|137<br/>|146<br/>|
 ### Charts
 ![Basic features](http://www.palmmedia.de/content/blogimages/5225c515-2f25-498f-84fe-6c6e931d2042.png)
 ![Advanced features](http://www.palmmedia.de/content/blogimages/e0401485-20c6-462e-b5d4-c9cf854e6bee.png)

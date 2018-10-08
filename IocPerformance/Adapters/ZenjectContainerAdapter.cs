@@ -38,7 +38,7 @@ namespace IocPerformance.Adapters
 
         public override string Version
         {
-            get { return "6.4.0"; }
+            get { return "7.3.0"; }
         }
 
         public override void Dispose()
