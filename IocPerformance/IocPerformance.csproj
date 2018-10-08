@@ -51,11 +51,11 @@
     <Reference Include="System.Xml" />
     <Reference Include="Zenject, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\Zenject.dll</HintPath>
+      <HintPath>Lib\Zenject.dll</HintPath>
     </Reference>
     <Reference Include="Zenject-usage, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\Zenject-usage.dll</HintPath>
+      <HintPath>Lib\Zenject-usage.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
